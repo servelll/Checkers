@@ -1,2 +1,2 @@
 # Checkers
-Checkers
+Windows Forms C#
